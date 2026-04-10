@@ -1,7 +1,11 @@
 ## Hi there ...
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Cherry+Bomb+One&size=29&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&width=800&lines=Nah...+UwU;Welcome;To+my+repo;DirmdsLab" alt="Typing SVG" /></a>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Cherry+Bomb+One&size=29&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&width=500&lines=Nah...+UwU;Welcome;To+my+repo;DirmdsLab"
+    style="width: 100%; max-width: 500px;"
+    alt="Typing SVG"
+  />
 </div>
 
 ## About Me :)
