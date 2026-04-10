@@ -11,7 +11,7 @@ favorite_things:
   - experiment 
   - Anime
   - Gaming
-  - Hmm..
+  - Hmm...
 ```
 
 ## GitHub Statistics
