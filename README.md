@@ -8,7 +8,7 @@ pronouns: he/him
 location: The Internet
 
 favorite_things:
-  - experiment 
+  - Experiment 
   - Anime
   - Gaming
   - Hmm...
