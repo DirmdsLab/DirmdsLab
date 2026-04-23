@@ -44,5 +44,5 @@ favorite_things:
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cherry+Bomb+One&duration=10000&pause=1000&color=F7F7F7&center=true&width=435&lines=Tutturuu..."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Cherry+Bomb+One&pause=5000&color=F7F7F7&center=true&width=435&lines=If+u+die%2C+just+respawn+%3Av"/>
 </div>
